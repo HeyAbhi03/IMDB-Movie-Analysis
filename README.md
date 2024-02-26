@@ -29,7 +29,7 @@ Group the combined column using the actor_1_name column.
 
 Find the mean of the num_critic_for_reviews and num_users_for_review and identify the actors which have the highest mean. Observe the change in number of voted users over decades using a bar chart. Create a column called decade which represents the decade to which every movie belongs to. For example, the title_year year 1923, 1925 should be stored as 1920s. Sort the column based on the column decade, group it by decade and find the sum of users voted in each decade. Store this in a new data frame called df_by_decade. Task: Find the critic-favorite and audience-favorite actors
 
-![image]![Slide1](https://github.com/HeyAbhi03/IMDB-Movie-Analysis/assets/161314096/50208242-989a-42db-a0f4-6f07eb58aa89)
-![image]![Slide2](https://github.com/HeyAbhi03/IMDB-Movie-Analysis/assets/161314096/098ae354-8ac1-4e0d-b184-b6f664d10d45)
-![image]![Slide3](https://github.com/HeyAbhi03/IMDB-Movie-Analysis/assets/161314096/b28e4a4f-ee03-4cfe-a93e-21c80ac62281)
-![image]![Slide12](https://github.com/HeyAbhi03/IMDB-Movie-Analysis/assets/161314096/1f4ca649-8388-4f37-a4ff-156c5188e7f4)
+![image](https://github.com/HeyAbhi03/IMDB-Movie-Analysis/assets/161314096/50208242-989a-42db-a0f4-6f07eb58aa89)
+![image](https://github.com/HeyAbhi03/IMDB-Movie-Analysis/assets/161314096/098ae354-8ac1-4e0d-b184-b6f664d10d45)
+![image](https://github.com/HeyAbhi03/IMDB-Movie-Analysis/assets/161314096/b28e4a4f-ee03-4cfe-a93e-21c80ac62281)
+![image](https://github.com/HeyAbhi03/IMDB-Movie-Analysis/assets/161314096/1f4ca649-8388-4f37-a4ff-156c5188e7f4)
